@@ -1,4 +1,4 @@
-module helloexporters
+module containerexporter
 
 go 1.19
 
